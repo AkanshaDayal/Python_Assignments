@@ -1,1 +1,1 @@
-# Python_Assignments by pwskills
+# Python_Assignments
